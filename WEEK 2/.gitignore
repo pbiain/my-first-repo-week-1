@@ -1,3 +1,5 @@
 .env
 **/product_images/
-*.jpgiron
+*.jpg
+__pycache__/
+*.pyc
