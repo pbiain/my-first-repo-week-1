@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Water Bottle",
+      "category": "Outdoors",
+      "price": 12.99,
+      "features": [
+        "BPA-free",
+        "Insulated"
+      ]
+    }
+  ]
+}

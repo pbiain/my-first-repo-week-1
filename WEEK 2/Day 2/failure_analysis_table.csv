@@ -1,0 +1,121 @@
+run_id,prompt,response,is_success,failure_pattern
+1,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+2,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+3,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+4,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""2023-03-15"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+5,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+6,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""2023-03-15"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+7,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+8,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+9,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+10,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""2023-03-15"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+11,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""2023-03-15"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+12,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+13,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+14,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)
+15,I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.,"```json
+{
+  ""order_id"": ""12345"",
+  ""order_date"": ""March 15th"",
+  ""delivery_speed"": ""fast"",
+  ""packaging_condition"": ""damaged""
+}
+```",True,None (Success)

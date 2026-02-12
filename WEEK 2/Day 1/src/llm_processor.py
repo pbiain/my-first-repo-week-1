@@ -23,7 +23,7 @@ def generate_script(text):
     Podcast Script:"""
     
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": "You are a professional podcast scriptwriter. Create engaging, concise dialogue for short 30-second podcasts."},
             {"role": "user", "content": prompt}

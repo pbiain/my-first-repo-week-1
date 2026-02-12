@@ -1,0 +1,5 @@
+.env
+**/product_images/
+*.jpg
+__pycache__/
+*.pyc

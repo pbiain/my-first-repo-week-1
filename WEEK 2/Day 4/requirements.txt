@@ -1,0 +1,14 @@
+#openai: For interacting with GPT models.
+#anthropic: For interacting with Claude models.
+#python-dotenv: For loading your .env file secrets.
+#requests: For fetching data from the news API.
+#aiohttp: This allows for Asynchronous communication. While requests is great for one-off calls, aiohttp lets your app handle many API requests at once without "blocking" or slowing down, which is essential for high-performance news fetching.
+#tiktoken: This is OpenAI’s official library for Token Management. It allows you to count exactly how many tokens a prompt uses before you send it to the API, helping you stay within your "Daily Budget" and avoid surprise costs.
+#pytest: This is the industry-standard Testing Framework. We will use it in your test_summarizer.py file to automatically verify that your code works correctly every time you make a change.
+openai>=1.12.0
+anthropic>=0.18.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+aiohttp>=3.9.0
+tiktoken>=0.5.0
+pytest>=7.4.0

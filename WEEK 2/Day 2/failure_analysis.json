@@ -1,0 +1,107 @@
+[
+    {
+        "run_id":1,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15th\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":2,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15th\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":3,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15th\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":4,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"2023-03-15\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":5,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15th\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":6,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"2023-03-15\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":7,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15th\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":8,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15th\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":9,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15th\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":10,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"2023-03-15\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":11,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"2023-03-15\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":12,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":13,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15th\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":14,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15th\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    },
+    {
+        "run_id":15,
+        "prompt":"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.",
+        "response":"```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15th\",\n  \"delivery_speed\": \"fast\",\n  \"packaging_condition\": \"damaged\"\n}\n```",
+        "is_success":true,
+        "failure_pattern":"None (Success)"
+    }
+]
